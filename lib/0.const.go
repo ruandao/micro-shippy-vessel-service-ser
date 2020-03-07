@@ -1,3 +1,3 @@
 package lib
 
-const CONST_SERVICE_NAME = "go.micro.srv.vessel"
+const CONST_SER_NAME_VESSEL = "go.micro.srv.vessel"

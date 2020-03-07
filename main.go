@@ -16,7 +16,7 @@ const (
 func main() {
 
 	srv := micro.NewService(
-		micro.Name(lib.CONST_SERVICE_NAME),
+		micro.Name(lib.CONST_SER_NAME_VESSEL),
 	)
 
 	srv.Init()
